@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# FileMaker backups and temp files
+*Clone*.fmp12
+*Backup*.fmp12
+*.fmp12.lock
+
+# Secrets
+.env
+*.key
